@@ -38,9 +38,26 @@ pygmentsUseClasses = true
   showtoc = false
   tocopen = false
 
-  [params.homeInfoParams]
-    Title = "Hi, we're Mak & Cooper! \U0001F44B"
-    Content = "We're two brothers collecting and recycling cans and bottles to raise money for charity. Follow our progress, see how much we've collected, and find out how you can help."
+  [params.profileMode]
+    enabled = true
+    title = "Hi, we're Mak & Cooper! \U0001F44B"
+    subtitle = "We're two brothers collecting and recycling cans and bottles to raise money for charity. Follow our progress, see how much we've collected, and find out how you can help."
+    imageUrl = "images/mak-cooper.jpeg"
+    imageTitle = "Mak and Cooper"
+    imageWidth = 200
+    imageHeight = 200
+
+    [[params.profileMode.buttons]]
+      name = "Our Story"
+      url = "/about/"
+
+    [[params.profileMode.buttons]]
+      name = "Updates"
+      url = "/updates/"
+
+    [[params.profileMode.buttons]]
+      name = "Contact"
+      url = "/contact/"
 
   [params.assets]
     disableHLJS = true
