@@ -2,11 +2,11 @@
 title: "About Us"
 layout: "single"
 url: "/about/"
-summary: "About Max & Cooper Recycling"
+summary: "About Mak & Cooper Recycling"
 ShowToc: false
 ---
 
-Hi, we're Max and Cooper! We're two brothers who collect cans and bottles from our neighbourhood, family, and friends, and return them for a refund through our local container recycling scheme.
+Hi, we're Mak and Cooper! We're two brothers who collect cans and bottles from our neighbourhood, family, and friends, and return them for a refund through our local container recycling scheme.
 
 Every cent we raise goes toward [charity name] — because we want to help our community while keeping recyclables out of landfill.
 

@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 locale = 'en-AU'
-title = 'Max & Cooper Recycling'
+title = 'Mak & Cooper Recycling'
 theme = 'PaperMod'
 
 enableRobotsTXT = true
@@ -15,10 +15,10 @@ pygmentsUseClasses = true
 
 [params]
   env = 'production'
-  title = 'Max & Cooper Recycling'
-  description = "Max and Cooper's charity can recycling drive — collecting cans and bottles to raise money for a good cause."
+  title = 'Mak & Cooper Recycling'
+  description = "Mak and Cooper's charity can recycling drive — collecting cans and bottles to raise money for a good cause."
   keywords = ['recycling', 'charity', 'cans', 'containers for change', 'fundraising']
-  author = 'Max & Cooper'
+  author = 'Mak & Cooper'
   DateFormat = '2 January 2006'
   defaultTheme = 'auto'
   disableThemeToggle = false
@@ -39,7 +39,7 @@ pygmentsUseClasses = true
   tocopen = false
 
   [params.homeInfoParams]
-    Title = "Hi, we're Max & Cooper! \U0001F44B"
+    Title = "Hi, we're Mak & Cooper! \U0001F44B"
     Content = "We're two brothers collecting and recycling cans and bottles to raise money for charity. Follow our progress, see how much we've collected, and find out how you can help."
 
   [params.assets]
@@ -47,7 +47,7 @@ pygmentsUseClasses = true
     favicon = "/favicon.ico"
 
   [params.label]
-    text = "Max & Cooper Recycling"
+    text = "Mak & Cooper Recycling"
     icon = "/favicon.ico"
     iconHeight = 35
 

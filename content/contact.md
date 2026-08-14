@@ -2,7 +2,7 @@
 title: "Contact"
 layout: "single"
 url: "/contact/"
-summary: "Get in touch with Max & Cooper Recycling"
+summary: "Get in touch with Mak & Cooper Recycling"
 ShowToc: false
 ---
 
