@@ -2,6 +2,7 @@ baseURL = 'https://example.org/'
 locale = 'en-AU'
 title = 'Mak & Cooper Recycling'
 theme = 'PaperMod'
+timeZone = 'Australia/Sydney'
 
 enableRobotsTXT = true
 buildDrafts = false
