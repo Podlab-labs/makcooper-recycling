@@ -1,0 +1,4 @@
+/* Show the full profile photo instead of cropping it into a circle */
+.profile img {
+    border-radius: 12px;
+}

@@ -41,7 +41,7 @@ pygmentsUseClasses = true
   [params.profileMode]
     enabled = true
     title = "Hi, we're Mak & Cooper! \U0001F44B"
-    subtitle = "We're two brothers collecting and recycling cans and bottles to raise money for charity. Follow our progress, see how much we've collected, and find out how you can help."
+    subtitle = "Mak & Cooper’s Recycling offers FREE regular pick ups and a FREE 240L bin for our regular supporters.<br>No sorting, no mess, no trips to Return & Earn – we do it all for you!<br><br>📞 Text <a href=\"tel:0422396217\">0422 396 217</a>"
     imageUrl = "images/mak-cooper.jpeg"
     imageTitle = "Mak and Cooper"
     imageWidth = 200
@@ -64,7 +64,7 @@ pygmentsUseClasses = true
     favicon = "/favicon.ico"
 
   [params.label]
-    text = "Mak & Cooper Recycling"
+    text = "♻️ Mak & Cooper Recycling"
     icon = "/favicon.ico"
     iconHeight = 35
 
