@@ -53,6 +53,10 @@ pygmentsUseClasses = true
       url = "/about/"
 
     [[params.profileMode.buttons]]
+      name = "Collection Runs"
+      url = "/collection-runs/"
+
+    [[params.profileMode.buttons]]
       name = "Updates"
       url = "/updates/"
 
@@ -87,6 +91,12 @@ pygmentsUseClasses = true
   name = 'About Us'
   url = '/about/'
   weight = 20
+
+[[menu.main]]
+  identifier = 'collection-runs'
+  name = 'Collection Runs'
+  url = '/collection-runs/'
+  weight = 25
 
 [[menu.main]]
   identifier = 'updates'
