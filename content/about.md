@@ -13,7 +13,8 @@ No sorting, no mess, no trips to Return & Earn – we do it all for you!
 
 ## Our Story
 
-*Tell your story here — how you got started
+*Tell your story here — how you got started*
+
 ## Our Goal
 
 *Add a fundraising target here, e.g. "We're aiming to raise $500 by the end of the year."*
@@ -24,6 +25,6 @@ No sorting, no mess, no trips to Return & Earn – we do it all for you!
 - Drop them off at [location/arrangement]
 - Tell your friends and family about what we're doing
 
-## Thankyou
+## Thank You
 
-- We counldn't offer this service without the help an support from our **AMAZING PARENTS** ❤️
+- We couldn't offer this service without the help and support from our **AMAZING PARENTS** ❤️
