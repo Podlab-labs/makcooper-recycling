@@ -77,10 +77,6 @@ pygmentsUseClasses = true
     name = "facebook"
     url = "https://www.facebook.com/groups/1144067232285189/user/100091648051030/"
 
-  [[params.socialIcons]]
-    name = "rss"
-    url = "index.xml"
-
 [outputs]
   home = ['HTML', 'RSS', 'JSON']
 
