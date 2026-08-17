@@ -10,5 +10,4 @@ Want to donate your cans and bottles, or find out more about what we're doing? G
 
 - **Email:** [makandcoopersrecycling@gmail.com](mailto:makandcoopersrecycling@gmail.com)
 - **Text:** **0422 396 217**
-- **Drop-off:** *let people know how/where to drop off recyclables*
-- **Social:** *add links if you have them*
+- **Social:** [Facebook](https://www.facebook.com/groups/1144067232285189/user/100091648051030/)
