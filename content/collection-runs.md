@@ -2,7 +2,7 @@
 title: "Our Collection Runs"
 layout: "single"
 url: "/collection-runs/"
-summary: "Where and when Mak & Cooper Recycling collect cans and bottles"
+summary: "See which Sydney suburbs Mak & Cooper Recycling collects cans and bottles from each week — Thursdays in Liverpool, Campbelltown and Camden; Fridays in Blacktown, The Hills and Hawkesbury."
 ShowToc: false
 ---
 

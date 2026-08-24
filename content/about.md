@@ -2,13 +2,13 @@
 title: "About Us"
 layout: "single"
 url: "/about/"
-summary: "About Mak & Cooper Recycling"
+summary: "Meet Mak & Cooper — the Sydney siblings running a free charity can and bottle recycling collection across Liverpool, Campbelltown, Camden, Blacktown, The Hills and Hawkesbury."
 ShowToc: false
 ---
 
 Hi, we’re Mak and Cooper,
 
-We are a brother and sister team collecting unwanted cans and bottles from homes, businesses, family and friends. We return all eligible cans & bottles through the NSW Return and Earn scheme.
+We are a brother and sister team collecting unwanted cans and bottles from homes and businesses across Sydney's South West and North West. We return all eligible cans & bottles through the NSW Return and Earn scheme.
 
 We do this while continuing our studies and both working part time at Macca’s. We choose to spend our spare time building our recycling service because we would rather be doing something productive, helping families/households and saving for our future than sitting around playing Xbox.
 

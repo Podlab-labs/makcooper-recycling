@@ -1,0 +1,30 @@
+{{- if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Mak & Cooper Recycling",
+  "description": "Charity can and bottle recycling collection service run by Mak & Cooper, offering free regular pick-ups and free bins across Sydney's South West and North West.",
+  "url": "{{ site.BaseURL }}",
+  "image": "{{ (absURL "images/mak-cooper.jpeg") }}",
+  "telephone": "+61422396217",
+  "email": "makandcoopersrecycling@gmail.com",
+  "sameAs": [
+    "https://www.facebook.com/coop.mak"
+  ],
+  "areaServed": [
+    { "@type": "Place", "name": "Liverpool, NSW" },
+    { "@type": "Place", "name": "Campbelltown, NSW" },
+    { "@type": "Place", "name": "Camden, NSW" },
+    { "@type": "Place", "name": "Blacktown, NSW" },
+    { "@type": "Place", "name": "The Hills, NSW" },
+    { "@type": "Place", "name": "Hawkesbury, NSW" }
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "addressRegion": "NSW",
+    "addressCountry": "AU"
+  }
+}
+</script>
+{{- end }}

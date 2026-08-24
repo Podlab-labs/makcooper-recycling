@@ -17,8 +17,8 @@ pygmentsUseClasses = true
 [params]
   env = 'production'
   title = 'Mak & Cooper Recycling'
-  description = "Mak and Cooper's charity can recycling drive — collecting cans and bottles to raise money for a good cause."
-  keywords = ['recycling', 'charity', 'cans', 'containers for change', 'fundraising']
+  description = "Free can and bottle recycling collection in Liverpool, Campbelltown, Camden, Blacktown, The Hills and Hawkesbury. Mak & Cooper offer free regular pick-ups and a free bin — no sorting, no trips to Return & Earn."
+  keywords = ['recycling', 'charity', 'cans', 'bottles', 'containers for change', 'return and earn', 'fundraising', 'Liverpool', 'Campbelltown', 'Camden', 'Blacktown', 'The Hills', 'Hawkesbury', 'Sydney']
   author = 'Mak & Cooper'
   DateFormat = '2 January 2006'
   defaultTheme = 'auto'
@@ -42,9 +42,9 @@ pygmentsUseClasses = true
   [params.profileMode]
     enabled = true
     title = "Hi, we're Mak & Cooper! \U0001F44B"
-    subtitle = "Mak & Cooper’s Recycling offers FREE regular pick ups and a FREE 240L bin for our regular supporters.<br>No sorting, no mess, no trips to Return & Earn – we do it all for you!<br><br>📞 Text <a href=\"tel:0422396217\">0422 396 217</a>"
+    subtitle = "Mak & Cooper’s Recycling offers FREE regular pick ups and a FREE 240L bin for our regular supporters across Liverpool, Campbelltown, Camden, Blacktown, The Hills and Hawkesbury.<br>No sorting, no mess, no trips to Return & Earn – we do it all for you!<br><br>📞 Text <a href=\"tel:0422396217\">0422 396 217</a>"
     imageUrl = "images/mak-cooper.jpeg"
-    imageTitle = "Mak and Cooper"
+    imageTitle = "Mak and Cooper, the brother and sister team behind Mak & Cooper Recycling's free can and bottle collection service"
     imageWidth = 200
     imageHeight = 200
 
