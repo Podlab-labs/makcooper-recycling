@@ -70,7 +70,7 @@ pygmentsUseClasses = true
 
   [params.label]
     text = "♻️ Mak & Cooper Recycling"
-    icon = "/favicon.ico"
+    icon = "images/mak-cooper.jpeg"
     iconHeight = 35
 
   [[params.socialIcons]]
