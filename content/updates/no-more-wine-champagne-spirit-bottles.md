@@ -1,5 +1,5 @@
 ---
-title: "Important Update: Champagne, Wine & Spirit Bottles No Longer Accepted"
+title: "Important Update: Champagne, Wine & Spirit Bottles"
 date: 2026-09-24
 summary: "Return and Earn currently does not accept Champagne, Wine or Spirit bottles — please leave these out of your collection containers."
 ---

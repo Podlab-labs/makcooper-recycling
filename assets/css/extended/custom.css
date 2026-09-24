@@ -2,3 +2,35 @@
 .profile img {
     border-radius: 12px;
 }
+
+/* Recycling-green accent */
+:root {
+    --accent: rgb(46, 125, 50);
+    --accent-light: rgb(232, 245, 233);
+}
+
+:root[data-theme="dark"] {
+    --accent: rgb(129, 199, 132);
+    --accent-light: rgba(129, 199, 132, 0.15);
+}
+
+.menu .active {
+    color: var(--accent);
+    text-decoration-color: var(--accent);
+}
+
+.md-content a:not(.anchor) {
+    color: var(--accent);
+}
+
+.button {
+    background: var(--accent-light);
+    color: var(--accent);
+    border: 1px solid var(--accent);
+    transition: background 0.15s ease, color 0.15s ease;
+}
+
+.button:hover {
+    background: var(--accent);
+    color: var(--theme);
+}
