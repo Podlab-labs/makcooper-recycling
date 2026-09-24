@@ -11,6 +11,8 @@ To keep our service running efficiently, we collect from different areas on diff
 - 🗓️ **Thursdays** – Liverpool, Campbelltown, Camden and surrounding suburbs.
 - 🗓️ **Fridays** – Blacktown, The Hills, Hawkesbury and surrounding suburbs.
 
+⚠️ **Please note:** Return and Earn currently does not accept Champagne, Wine or Spirit bottles. To help us save time sorting through containers, please leave these out of your collection containers.
+
 We do our best to head out with Mum and Dad after school whenever we can to help with our collections. However, because we both attend school and work part-time at Macca's, it's not always possible.
 
 On Thursdays and Fridays, Mum and Dad juggle their own work commitments while completing our collection runs. Without their dedication and support, we simply couldn't provide this service to our community.

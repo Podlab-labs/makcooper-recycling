@@ -16,6 +16,8 @@ Mak & Cooper’s Recycling offers free regular collections and a free 240L bin f
 
 Our service is completely donation based, which means we don’t pay cash for the cans and bottles we collect. We simply collect the eligible containers you would like to get rid of or generously donate.
 
+⚠️ **Please note:** Return and Earn currently does not accept Champagne, Wine or Spirit bottles. To help us save time sorting through containers, please leave these out of your collection containers.
+
 
 ## Our Story
 
